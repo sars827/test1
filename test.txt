@@ -1,0 +1,3 @@
+<?php
+echo 'I said \'HOW ARE YOU\'.';
+?>
