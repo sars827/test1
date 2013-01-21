@@ -1,0 +1,4 @@
+<?php
+echo 'I said \'HOW ARE YOU\'.';
+echo 'I said \'YOU YOu YOU\'.';
+?>
