@@ -1,0 +1,5 @@
+<?php
+echo 'I said \'HOW ARE YOU\'.';
+echo 'I said \'YOU YOu YOU\'.';
+echo 'I said \'YO YO YO\'.';
+?>
